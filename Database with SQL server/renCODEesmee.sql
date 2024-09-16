@@ -56,7 +56,7 @@ values (@name,@programmingLanguage,@description,@process,@image);
 create proc sp_selectId
 @id int 
 as
-select 8 from tbError where Id =@id;
+select * from tbError where Id =@id;
 
 
 create proc sp_editEntry
