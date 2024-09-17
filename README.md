@@ -3,10 +3,12 @@
 In this Application you can:
 
 - [x] Record the mistakes you encounter in solving problems 
-- [x] Take pictures of the solution 
+- [x] Add an image to the solution
 - [x] Record the solution 
-- [x] Records the type of language the code is written in
+- [x] Records the type of language in which the code was written
 - [x] Search
+- [x] Edit
+- [x] Delete
 
 ## The app's photos
 <div align="center">
